@@ -11,7 +11,6 @@
 from typing import Text
 from PyQt5 import QtCore, QtGui, QtWidgets
 import random
-import time
 Turn = [0, 1]
 PlayerTurn = random.choice(Turn)
 class Ui_MainWindow(object):
